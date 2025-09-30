@@ -1,73 +1,55 @@
-# 👋 Hi, I’m Abhishek Sharma
+# 👋 Hi, I'm Abhishek Sharma
 
-Welcome to my GitHub profile! I am a passionate software engineer with hands-on experience in full-stack development, cloud infrastructure, and DevOps practices. I enjoy building scalable applications, exploring new technologies, and contributing to open-source projects.
+Welcome to my GitHub profile! I'm a passionate software engineer with expertise in full-stack development, cloud computing, and DevOps practices. I enjoy building scalable applications and exploring new technologies.
 
 ---
 
 ## 🧰 Skills & Technologies
 
-| Domain | Tools & Technologies |
-|--------|--------------------|
-| **Frontend** | React, React Native, JavaScript, TypeScript, HTML, CSS, Tailwind |
-| **Backend** | Node.js, Express, REST APIs, GraphQL |
-| **Cloud & DevOps** | AWS (EKS, EC2, S3), Terraform, Docker, CI/CD pipelines |
-| **Databases** | MySQL, PostgreSQL, MongoDB |
-| **Other** | Git & GitHub, Linux, Agile methodologies |
+### Programming Languages
+- **Java**: Proficient in Java, with experience in building enterprise-level applications using Spring Boot.
+- **JavaScript & TypeScript**: Experienced in developing dynamic web applications using modern JavaScript frameworks.
+- **Node.js**: Skilled in building server-side applications and RESTful APIs.
+
+### Frameworks & Libraries
+- **Spring Boot**: Expertise in developing microservices and REST APIs.
+- **React**: Building interactive UIs with React and managing state with Redux.
+- **Angular**: Developing single-page applications using Angular.
+
+### Cloud & DevOps
+- **AWS Certified**: Proficient in deploying and managing applications on AWS.
+- **Terraform**: Infrastructure as Code (IaC) for provisioning cloud resources.
+- **Docker & Kubernetes**: Containerization and orchestration for scalable applications.
 
 ---
 
-## 🚀 Pinned Projects
+## 📂 Featured Projects
 
-Here are some of my key projects showcasing my skills:
+Here are some of my key projects:
 
-1. **[CS-641](https://github.com/abhisheksh99/CS-641)**  
-   Coursework / experiments in TypeScript demonstrating advanced programming concepts.
-
-2. **[React_Native_Project_1](https://github.com/abhisheksh99/React_Native_Project_1)**  
-   A mobile application built with React Native, showcasing UI design and state management.
-
-3. **[QuickDeal_v2](https://github.com/abhisheksh99/QuickDeal_v2)** & **[QuickDeal](https://github.com/abhisheksh99/QuickDeal)**  
-   E-commerce platform projects demonstrating full-stack development, JavaScript, and API integration.
-
-4. **[Terraform-EKS-Cluster](https://github.com/abhisheksh99/Terraform-EKS-Cluter)**  
-   Infrastructure as Code (IaC) project for provisioning a Kubernetes cluster on AWS using Terraform.
-
-5. **[Terraform](https://github.com/abhisheksh99/Terraform)**  
-   Miscellaneous infrastructure automation projects demonstrating cloud provisioning and best practices.
+- **[CS-641](https://github.com/abhisheksh99/CS-641)**: Coursework and experiments in TypeScript.
+- **[React_Native_Project_1](https://github.com/abhisheksh99/React_Native_Project_1)**: A mobile application built with React Native.
+- **[QuickDeal_v2](https://github.com/abhisheksh99/QuickDeal_v2)**: E-commerce platform showcasing full-stack development.
+- **[Terraform-EKS-Cluster](https://github.com/abhisheksh99/Terraform-EKS-Cluter)**: Infrastructure as Code for provisioning Kubernetes clusters on AWS.
 
 ---
 
-## 🌱 Currently Learning
+## 🎓 Certifications
 
-- Advanced Kubernetes and microservices architecture  
-- Serverless technologies and cloud-native solutions  
-- DevOps practices including CI/CD optimization and monitoring
+- **AWS Certified Solutions Architect – Associate**: Validates expertise in designing distributed systems on AWS.
+- **Oracle Certified Professional, Java SE 11 Developer**: Demonstrates proficiency in Java programming.
 
 ---
 
-## 🎯 Goals & Aspirations
+## 📈 GitHub Stats
 
-- Build scalable, performance-critical systems  
-- Contribute to open-source projects and mentor aspiring developers  
-- Explore advanced cloud and DevOps technologies  
-- Keep learning and growing as a full-stack and systems engineer
+![Abhishek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhisheksh99&show_icons=true&theme=radical)
 
 ---
 
 ## 📫 How to Reach Me
 
-- **GitHub:** [@abhisheksh99](https://github.com/abhisheksh99)  
-- **LinkedIn:** *Add your LinkedIn URL here*  
-- **Email:** *Add your email here*
+- **LinkedIn**: [linkedin.com/in/abhishek-sharma](https://www.linkedin.com/in/abhishek-sharma)
+- **Email**: [abhishek@example.com](mailto:abhishek@example.com)
 
----
-
-## 🏆 Achievements
-
-- Completed multiple full-stack and cloud projects  
-- Developed hands-on experience in Terraform, AWS, React, and Node.js  
-- Consistently learning and contributing to open-source and personal projects
-
----
-
-
+Feel free to connect with me!
