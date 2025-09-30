@@ -70,6 +70,4 @@ Here are some of my key projects showcasing my skills:
 
 ---
 
-## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhisheksh99&show_icons=true&theme=radical)
